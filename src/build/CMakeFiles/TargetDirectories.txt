@@ -1,0 +1,4 @@
+/Users/pietro/Desktop/monopoly_p/src/build/CMakeFiles/my_lib.dir
+/Users/pietro/Desktop/monopoly_p/src/build/CMakeFiles/main.dir
+/Users/pietro/Desktop/monopoly_p/src/build/CMakeFiles/edit_cache.dir
+/Users/pietro/Desktop/monopoly_p/src/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,224 @@
+Il player  è passato alla casella 2Il player  è passato alla casella 6Il player  è passato alla casella 9Il player  è passato alla casella 6Il player  è passato alla casella 13Il player  è passato alla casella 8Il player  è passato alla casella 16Il player  è passato alla casella 10Il player  è passato alla casella 16Il player  è passato alla casella 15Il player  è passato alla casella 22Il player  è passato alla casella 14Il player  è passato alla casella 23Il player  è passato alla casella 23Il player  è passato alla casella 3Il player  è passato alla casella 17Il player  è passato alla casella 3Il player  è passato alla casella 27Il player  è passato alla casella 9Il player  è passato alla casella 26Il player  è passato alla casella 8Il player  è passato alla casella 6Il player  è passato alla casella 14Il player  è passato alla casella 6Il player Giocatore 1 è passato alla casella 9Il player Giocatore 2 è passato alla casella 8Il player Giocatore 3 è passato alla casella 6Il player Giocatore 4 è passato alla casella 7Il player Giocatore 1 è passato alla casella 18Il player Giocatore 2 è passato alla casella 16Il player Giocatore 3 è passato alla casella 11Il player Giocatore 4 è passato alla casella 10Il player Giocatore 1 è passato alla casella 21Il player Giocatore 2 è passato alla casella 23Il player Giocatore 3 è passato alla casella 16Il player Giocatore 4 è passato alla casella 20Il player Giocatore 1 è passato alla casella 3Il player Giocatore 2 è passato alla casella 6Il player Giocatore 3 è passato alla casella 19Il player Giocatore 4 è passato alla casella 27Il player Giocatore 1 è passato alla casella 8Il player Giocatore 2 è passato alla casella 15Il player Giocatore 3 è passato alla casella 23Il player Giocatore 4 è passato alla casella 8Il player Giocatore 1 è passato alla casella 18Il player Giocatore 2 è passato alla casella 22Il player Giocatore 3 è passato alla casella 1Il player Giocatore 4 è passato alla casella 13Il player Giocatore 1 è passato alla casella 5Il player Giocatore 2 è passato alla casella 11Il player Giocatore 3 è passato alla casella 7Il player Giocatore 4 è passato alla casella 9Il player Giocatore 1 è passato alla casella 14Il player Giocatore 2 è passato alla casella 18Il player Giocatore 3 è passato alla casella 17Il player Giocatore 4 è passato alla casella 18Il player Giocatore 1 è passato alla casella 24Il player Giocatore 2 è passato alla casella 25Il player Giocatore 3 è passato alla casella 21Il player Giocatore 4 è passato alla casella 27Il player Giocatore 1 è passato alla casella 5Il player Giocatore 2 è passato alla casella 4Il player Giocatore 3 è passato alla casella 2Il player Giocatore 4 è passato alla casella 7Il player Giocatore 1 è passato alla casella 13Il player Giocatore 2 è passato alla casella 9Il player Giocatore 3 è passato alla casella 6Il player Giocatore 4 è passato alla casella 11Il player Giocatore 1 è passato alla casella 22Il player Giocatore 2 è passato alla casella 16Il player Giocatore 3 è passato alla casella 13Il player Giocatore 4 è passato alla casella 17Il player Giocatore 1 è passato alla casella 6Il player Giocatore 2 è passato alla casella 2Il giocatore Giocatore 2ha costruito una proprietà di lusso!
+Il player Giocatore 3 è passato alla casella 6Il player Giocatore 4 è passato alla casella 4Il giocatore Giocatore 4ha comprato una proprietà standard!
+Il player Giocatore 1 è passato alla casella 12Il player Giocatore 2 è passato alla casella 10Il player Giocatore 3 è passato alla casella 16Il player Giocatore 4 è passato alla casella 13Il giocatore Giocatore 4ha comprato una proprietà (economica)!
+Il player Giocatore 1 è passato alla casella 24Il player Giocatore 2 è passato alla casella 15Il giocatore Giocatore 2ha costruito una proprietà di lusso!
+Il player Giocatore 3 è passato alla casella 21Il player Giocatore 4 è passato alla casella 17Il player Giocatore 1 è passato alla casella 2Il player Giocatore 2 è passato alla casella 22Il giocatore Giocatore 2ha comprato una proprietà standard!
+Il player Giocatore 3 è passato alla casella 2Il player Giocatore 4 è passato alla casella 22Il player Giocatore 1 è passato alla casella 8Il giocatore Giocatore 1ha comprato una proprietà (economica)!
+Il player Giocatore 2 è passato alla casella 26Il giocatore Giocatore 2ha costruito una proprietà di lusso!
+Il player Giocatore 3 è passato alla casella 5Il player Giocatore 4 è passato alla casella 2Il player Giocatore 1 è passato alla casella 16Il player Giocatore 2 è passato alla casella 7Il player Giocatore 3 è passato alla casella 14Il player Giocatore 4 è passato alla casella 8Il player Giocatore 1 è passato alla casella 6
+Il player Giocatore 2 è passato alla casella 6
+Il player Giocatore 3 è passato alla casella 10
+Il player Giocatore 4 è passato alla casella 5
+Il player Giocatore 1 è passato alla casella 9
+Il giocatore Giocatore 1ha comprato una proprietà standard!
+Il player Giocatore 2 è passato alla casella 15
+Il giocatore Giocatore 2ha comprato una proprietà standard!
+Il player Giocatore 3 è passato alla casella 16
+Il player Giocatore 4 è passato alla casella 9
+Il player Giocatore 1 è passato alla casella 16
+Il giocatore Giocatore 1ha comprato una proprietà (economica)!
+Il player Giocatore 2 è passato alla casella 23
+Il player Giocatore 3 è passato alla casella 24
+Il player Giocatore 4 è passato alla casella 16
+Il player Giocatore 1 è passato alla casella 23
+Il giocatore Giocatore 1ha comprato una proprietà standard!
+Il giocatore Giocatore 1ha costruito casa!
+Il giocatore Giocatore 1ha costruito un Hotel!
+Il player Giocatore 2 è passato alla casella 4
+Il player Giocatore 3 è passato alla casella 4
+Il player Giocatore 4 è passato alla casella 23
+Sei passato su una casella con Hotel, devi pagare 8Il player Giocatore 1 è passato alla casella 0
+Il player Giocatore 2 è passato alla casella 10
+Il player Giocatore 3 è passato alla casella 14
+Il player Giocatore 4 è passato alla casella 7
+Il player Giocatore 1 è passato alla casella 7
+Il player Giocatore 2 è passato alla casella 22
+Il giocatore Giocatore 2ha comprato una proprietà standard!
+Il player Giocatore 3 è passato alla casella 21
+Il player Giocatore 4 è passato alla casella 16
+ Giocatore 1 è passato alla casella 7
+ Giocatore 2 è passato alla casella 6
+ Giocatore 3 è passato alla casella 8
+ Giocatore 4 è passato alla casella 6
+Il giocatore Giocatore 4ha comprato una proprietà standard!
+Il giocatore Giocatore 4ha costruito casa!
+Il giocatore Giocatore 4ha costruito un Hotel!
+ Giocatore 1 è passato alla casella 14
+ Giocatore 2 è passato alla casella 14
+ Giocatore 3 è passato alla casella 18
+Il giocatore Giocatore 3ha costruito una proprietà di lusso!
+ Giocatore 4 è passato alla casella 14
+ Giocatore 1 è passato alla casella 20
+ Giocatore 2 è passato alla casella 21
+ Giocatore 3 è passato alla casella 25
+Il giocatore Giocatore 3ha comprato una proprietà standard!
+ Giocatore 4 è passato alla casella 18
+ Giocatore 1 è passato alla casella 3
+Il giocatore Giocatore 1ha comprato una proprietà standard!
+Il giocatore Giocatore 1ha costruito casa!
+Il giocatore Giocatore 1ha costruito un Hotel!
+ Giocatore 2 è passato alla casella 0
+ Giocatore 3 è passato alla casella 8
+ Giocatore 4 è passato alla casella 22
+Il giocatore Giocatore 4ha comprato una proprietà (economica)!
+Il giocatore Giocatore 4ha costruito casa!
+Il giocatore Giocatore 4ha costruito un Hotel!
+ Giocatore 1 è passato alla casella 10
+ Giocatore 2 è passato alla casella 3
+Sei passato su una casella con Hotel, devi pagare 8 Giocatore 3 è passato alla casella 19
+ Giocatore 4 è passato alla casella 3
+Sei passato su una casella con Hotel, devi pagare 8 Giocatore 1 è passato alla casella 19
+ Giocatore 2 è passato alla casella 12
+ Giocatore 3 è passato alla casella 1
+Il giocatore Giocatore 3ha comprato una proprietà standard!
+ Giocatore 4 è passato alla casella 7
+ Giocatore 1 è passato alla casella 9
+ Giocatore 2 è passato alla casella 7
+ Giocatore 3 è passato alla casella 8
+ Giocatore 4 è passato alla casella 5
+Giocatore 4ha costruito una proprietà di lusso!
+ Giocatore 1 è passato alla casella 16
+ Giocatore 2 è passato alla casella 13
+Giocatore 2ha comprato una proprietà standard!
+Giocatore 2ha costruito casa!
+Giocatore 2ha costruito un Hotel!
+ Giocatore 3 è passato alla casella 15
+ Giocatore 4 è passato alla casella 10
+ Giocatore 1 è passato alla casella 26
+ Giocatore 2 è passato alla casella 19
+Giocatore 2ha costruito una proprietà di lusso!
+ Giocatore 3 è passato alla casella 23
+ Giocatore 4 è passato alla casella 18
+ Giocatore 1 è passato alla casella 4
+Giocatore 1ha comprato una proprietà standard!
+ Giocatore 2 è passato alla casella 26
+Giocatore 2ha costruito una proprietà di lusso!
+ Giocatore 3 è passato alla casella 0
+ Giocatore 4 è passato alla casella 22
+ Giocatore 1 è passato alla casella 12
+ Giocatore 2 è passato alla casella 5
+ Giocatore 3 è passato alla casella 6
+ Giocatore 4 è passato alla casella 27
+ Giocatore 1 è passato alla casella 21
+ Giocatore 2 è passato alla casella 11
+Giocatore 2ha comprato una proprietà standard!
+ Giocatore 3 è passato alla casella 12
+ Giocatore 4 è passato alla casella 7
+ Giocatore 1 è passato alla casella 7
+ Giocatore 2 è passato alla casella 8
+ Giocatore 3 è passato alla casella 5
+ Giocatore 4 è passato alla casella 6
+ Giocatore 1 è passato alla casella 14
+ Giocatore 2 è passato alla casella 17
+ Giocatore 3 è passato alla casella 15
+Giocatore 3 ha costruito una proprietà di lusso!
+ Giocatore 4 è passato alla casella 14
+ Giocatore 1 è passato alla casella 16
+Giocatore 1 ha comprato una proprietà (economica)!
+ Giocatore 2 è passato alla casella 1
+Giocatore 2 ha comprato una proprietà standard!
+ Giocatore 3 è passato alla casella 22
+Giocatore 3 ha costruito una proprietà di lusso!
+ Giocatore 4 è passato alla casella 20
+ Giocatore 1 è passato alla casella 21
+ Giocatore 2 è passato alla casella 8
+ Giocatore 3 è passato alla casella 27
+Giocatore 3 ha costruito una proprietà di lusso!
+ Giocatore 4 è passato alla casella 25
+ Giocatore 1 è passato alla casella 0
+ Giocatore 2 è passato alla casella 15
+ Giocatore 3 è passato alla casella 4
+ Giocatore 4 è passato alla casella 5
+ Giocatore 1 è passato alla casella 5
+ Giocatore 2 è passato alla casella 19
+ Giocatore 3 è passato alla casella 10
+ Giocatore 4 è passato alla casella 12
+Giocatore 4 ha costruito una proprietà di lusso!
+Giocatore 1 è passato alla casella 12
+Giocatore 2 è passato alla casella 10
+Giocatore 3 è passato alla casella 2
+Giocatore 3 ha costruito una proprietà di lusso!
+Giocatore 4 è passato alla casella 6
+Giocatore 4 ha costruito una proprietà di lusso!
+Giocatore 1 è passato alla casella 15
+Giocatore 1 ha costruito una proprietà di lusso!
+Giocatore 2 è passato alla casella 15
+Giocatore 3 è passato alla casella 8
+Giocatore 3 ha costruito una proprietà di lusso!
+Giocatore 4 è passato alla casella 15
+Giocatore 1 è passato alla casella 18
+Giocatore 2 è passato alla casella 22
+Giocatore 2 ha comprato una proprietà standard!
+Giocatore 3 è passato alla casella 15
+Giocatore 4 è passato alla casella 22
+Giocatore 1 è passato alla casella 22
+Giocatore 2 è passato alla casella 26
+Giocatore 3 è passato alla casella 23
+Giocatore 3 ha costruito una proprietà di lusso!
+Giocatore 4 è passato alla casella 2
+Giocatore 1 è passato alla casella 25
+Giocatore 2 è passato alla casella 5
+Giocatore 3 è passato alla casella 2
+Giocatore 4 è passato alla casella 9
+Giocatore 1 è passato alla casella 8
+Giocatore 2 è passato alla casella 7
+Giocatore 3 è passato alla casella 7
+Giocatore 4 è passato alla casella 17
+Giocatore 1 è passato alla casella 8
+Giocatore 2 è passato alla casella 5
+Giocatore 2 ha comprato una proprietà standard!
+Giocatore 3 è passato alla casella 3
+Giocatore 3 ha comprato una proprietà standard!
+Giocatore 4 è passato alla casella 9
+Giocatore 4 ha comprato una proprietà standard!
+Giocatore 1 è passato alla casella 20
+Giocatore 1 ha comprato una proprietà standard!
+Giocatore 2 è passato alla casella 17
+Giocatore 2 ha costruito una proprietà di lusso!
+Giocatore 3 è passato alla casella 8
+Giocatore 4 è passato alla casella 12
+Giocatore 4 ha comprato una proprietà (economica)!
+Giocatore 1 è passato alla casella 23
+Giocatore 2 è passato alla casella 22
+Giocatore 2 ha costruito una proprietà di lusso!
+Giocatore 3 è passato alla casella 14
+Giocatore 4 è passato alla casella 20
+Giocatore 1 è passato alla casella 4
+Giocatore 1 ha comprato una proprietà standard!
+Giocatore 2 è passato alla casella 1
+Giocatore 2 ha comprato una proprietà (economica)!
+Giocatore 3 è passato alla casella 23
+Giocatore 4 è passato alla casella 25
+Giocatore 1 è passato alla casella 9
+Giocatore 2 è passato alla casella 7
+Giocatore 3 è passato alla casella 5
+Giocatore 4 è passato alla casella 4
+Giocatore 1 è passato alla casella 13
+Giocatore 2 è passato alla casella 12
+Giocatore 3 è passato alla casella 13
+Giocatore 3 ha costruito una proprietà di lusso!
+Giocatore 4 è passato alla casella 14
+Giocatore 1 è passato alla casella 8
+Giocatore 1 ha comprato una proprietà (economica)!
+Giocatore 2 è passato alla casella 6
+Giocatore 3 è passato alla casella 8
+Giocatore 4 è passato alla casella 2
+Giocatore 4 ha costruito una proprietà di lusso!
+Giocatore 1 è passato alla casella 17
+Giocatore 2 è passato alla casella 14
+Giocatore 3 è passato alla casella 13
+Giocatore 3 ha comprato una proprietà (economica)!
+Giocatore 4 è passato alla casella 11
+Giocatore 4 ha comprato una proprietà standard!
+Giocatore 1 è passato alla casella 5
+Giocatore 1 ha costruito una proprietà di lusso!
+Giocatore 2 è passato alla casella 5
+Giocatore 3 è passato alla casella 10
+Giocatore 4 è passato alla casella 5
+Giocatore 1 è passato alla casella 9
+Giocatore 2 è passato alla casella 11
+Giocatore 3 è passato alla casella 15
+Giocatore 3 ha comprato una proprietà standard!
+Giocatore 3 ha costruito casa!
+Giocatore 3 ha costruito un Hotel!
+Giocatore 4 è passato alla casella 12

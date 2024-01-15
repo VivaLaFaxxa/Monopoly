@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmy_lib.a CMakeFiles/my_lib.dir/board.cpp.o CMakeFiles/my_lib.dir/computer_player.cpp.o CMakeFiles/my_lib.dir/human_player.cpp.o CMakeFiles/my_lib.dir/player.cpp.o CMakeFiles/my_lib.dir/square.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmy_lib.a
